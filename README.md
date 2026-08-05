@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=007afc&style=flat" alt="Profile Views"></a>
+  <img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=007afc&style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,git,github,vscode,discord&theme=dark"></a>
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,git,github,vscode,discord&theme=dark">
 
 </p>
 
