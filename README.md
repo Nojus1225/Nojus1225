@@ -21,7 +21,7 @@
 | 💼 Role | Software Developer |
 | 🐍 Main Language | Python |
 | 🌐 Web Technologies | PHP • JavaScript • HTML • CSS |
-| 🗄️ Databases | MongoDB • SQLite |
+| 🗄️ Databases | MongoDB |
 | 💡 Interests | Discord Development • Web Development • Cybersecurity • Automation |
 | 🛠️ Tools | Git • GitHub • VS Code • Linux • Docker |
 | 🎯 Focus | Building reliable, scalable and maintainable software |
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,sqlite,git,github,vscode,linux,docker,discord&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,sqlite,git,github,vscode,,discord&theme=dark">
 
 </p>
 
