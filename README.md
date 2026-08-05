@@ -21,7 +21,7 @@
 | 💼 Role | Software Developer |
 | 🐍 Main Language | Python |
 | 🌐 Web Technologies | PHP • JavaScript • HTML • CSS |
-| 🗄️ Databases | MongoDB • MySQL • SQLite |
+| 🗄️ Databases | MongoDB • SQLite |
 | 💡 Interests | Discord Development • Web Development • Cybersecurity • Automation |
 | 🛠️ Tools | Git • GitHub • VS Code • Linux • Docker |
 | 🎯 Focus | Building reliable, scalable and maintainable software |
@@ -31,8 +31,8 @@
 # 💻 Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,mysql,sqlite,git,github,vscode,linux,docker,discord&theme=dark">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,sqlite,git,github,vscode,linux,docker,discord&theme=dark">
 
 </p>
 
@@ -40,61 +40,32 @@
 
 # 📊 Development Statistics
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/0c5d17c9-843f-4c29-9cb1-bc16df1f93b4.svg">
 
-</td>
+<br>
 
-<td align="center" width="50%">
-
-### ⚙️ Development Activity
+## ⚙️ Development Activity
 
 <img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/396f9e1a-6b07-4f8c-8040-16d3ee7145cf.svg">
 
-</td>
-</tr>
-</table>
+<br>
 
-<p align="center">
+## ⏱️ Total Coding Time
 
 <a href="https://wakatime.com/@8ea3fe57-0b37-453e-929a-948a81792343">
 <img src="https://wakatime.com/badge/user/8ea3fe57-0b37-453e-929a-948a81792343.svg" alt="Total Coding Time">
 </a>
 
-</p>
-
 ---
 
-# 📈 GitHub Statistics
+# 🌍 Contact
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nojus1225&show_icons=true&hide_border=true&theme=github_dark">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nojus1225&layout=compact&hide_border=true&theme=github_dark">
-
-</p>
-
----
-
-# 🧰 Development Philosophy
-
-> Creating software is not only about writing code.
-> It is about solving problems, learning continuously and building things that are useful.
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Nojus1225">
-<img src="https://skillicons.dev/icons?i=github&theme=dark">
+<a href="https://discord.com/users/1146046454511710218">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </p>
