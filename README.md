@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=007afc&style=flat" alt="Profile Views">
+  <a href="https://github.com/Nojus1225"><img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=007afc&style=flat" alt="Profile Views"></a>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,git,github,vscode,discord&theme=dark">
+<a href="https://github.com/Nojus1225"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,git,github,vscode,discord&theme=dark"></a>
 
 </p>
 
@@ -42,19 +42,19 @@
 
 ## 💻 Programming Languages
 
-<a href="#"><img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/0c5d17c9-843f-4c29-9cb1-bc16df1f93b4.svg"></a>
+<a href="https://github.com/Nojus1225"><img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/0c5d17c9-843f-4c29-9cb1-bc16df1f93b4.svg"></a>
 
 <br>
 
 ## ⚙️ Development Activity
 
-<a href="#"><img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/396f9e1a-6b07-4f8c-8040-16d3ee7145cf.svg"></a>
+<a href="https://github.com/Nojus1225"><img src="https://wakatime.com/share/@8ea3fe57-0b37-453e-929a-948a81792343/396f9e1a-6b07-4f8c-8040-16d3ee7145cf.svg"></a>
 
 <br>
 
 ## ⏱️ Total Coding Time
 
-<a href="#">
+<a href="https://github.com/Nojus1225">
 <img src="https://wakatime.com/badge/user/8ea3fe57-0b37-453e-929a-948a81792343.svg" alt="Total Coding Time">
 </a>
 
