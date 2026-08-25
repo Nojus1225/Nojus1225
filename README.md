@@ -19,11 +19,11 @@
 | 👤 Name | Nojus |
 | 📍 Location | Lithuania 🇱🇹 |
 | 💼 Role | Software Developer |
-| 🐍 Main Language | Python |
-| 🌐 Web Technologies | PHP • JavaScript • HTML • CSS |
+| 🐍 Main Languages | Python • JavaScript • TypeScript |
+| 🌐 Web Technologies | PHP • JavaScript • HTML • CSS • TypeScript |
 | 🗄️ Databases | MongoDB |
 | 💡 Interests | Discord Development • Web Development • Cybersecurity • Automation |
-| 🛠️ Tools | Git • GitHub • VS Code • Linux • Docker |
+| 🛠️ Tools | Git • GitHub • VS Code |
 | 🎯 Focus | Building reliable, scalable and maintainable software |
 
 ---
