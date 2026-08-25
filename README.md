@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Nojus1225"><img src="https://skillicons.dev/icons?i=python,php,js,html,css,mongodb,git,github,vscode,discord&theme=dark"></a>
+<a href="https://github.com/Nojus1225"><img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,mongodb,git,github,vscode,discord&theme=dark"></a>
 
 </p>
 
