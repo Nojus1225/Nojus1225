@@ -1,14 +1,14 @@
-<h1 align="center">Hey, I'm Nojus 👋</h1>
+# Hey, I'm Nojus 👋
 
 <p align="center">
-  <b>Software Developer from Lithuania 🇱🇹</b>
+  <b>Software Developer · Lithuania 🇱🇹</b>
   <br>
-  Building backend systems, Discord bots, tools and other software projects.
+  Building software, backend systems, APIs and developer tools.
 </p>
 
 <p align="center">
   <a href="https://github.com/Nojus1225">
-    <img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=007afc&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Nojus1225&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views">
   </a>
 </p>
 
@@ -16,52 +16,80 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer from Lithuania who enjoys building software and learning through hands-on experience.
+I'm a software developer from Lithuania with a strong interest in backend development, infrastructure and software engineering.
 
-I started programming with Python and have since worked with different programming languages, technologies and types of projects. Most of my work focuses on backend development, Discord applications, automation, APIs and software tools.
+I started my programming journey with Python and gradually expanded my experience across different languages, frameworks and technologies.
 
-I enjoy experimenting with new ideas, solving problems and learning something new with every project I build.
+I enjoy building things from the ground up, exploring how systems work internally and turning ideas into functional software. My projects range from Discord applications and APIs to hosting infrastructure and automation tools.
 
-I don't try to limit myself to a single technology. Different projects require different tools, and that's part of what makes programming interesting to me.
-
-### What I Enjoy
-
-- 🐍 Python development
-- 🟨 JavaScript & TypeScript
-- 🤖 Discord bots and integrations
-- ⚙️ Automation and developer tools
-- 🗄️ Databases and APIs
-- 🔐 Cybersecurity and software security
+I believe the best way to learn programming is by building real projects, experimenting and solving problems independently.
 
 ---
 
-# 🛠️ Technologies
+## 🧰 Technology Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,go,rust" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,cpp,php,html,css" alt="Programming Languages">
 </p>
 
-### Tools & Technologies
+### 🗄️ Databases & Data Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,discord,mongodb,git,github,vscode,npm,expressjs,react" alt="Tools and Technologies">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" alt="Databases">
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,discordjs,d" alt="Frameworks and Libraries">
+</p>
+
+### 🖥️ Development Environments & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit" alt="Development Environments">
+</p>
+
+### 🔧 Development Tools & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,bash,powershell,wakatime" alt="Development Tools">
+</p>
+
+### 🐧 Operating Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu" alt="Operating Systems">
+</p>
+
+### 🌐 Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,spotify" alt="Other Technologies">
 </p>
 
 ---
 
-# 📚 Learning
+## 📚 Currently Exploring
 
-I'm constantly learning and exploring new technologies.
+I'm constantly expanding my knowledge and experimenting with new technologies.
 
-Programming is a continuous process of learning for me. Every project gives me an opportunity to understand something better, experiment with a different approach or discover a technology I haven't worked with before.
+My interests include:
 
-I prefer learning by building real projects and solving actual problems rather than only following tutorials.
+- Backend architecture and API development
+- Server management and hosting infrastructure
+- Systems programming with Rust
+- Database architecture and performance
+- Automation and developer tooling
+- Software security
+
+I prefer learning through practical experience and building my own solutions.
 
 ---
 
-# 📊 Development Activity
+## 📊 Development Activity
 
 <p align="center">
   <a href="https://wakatime.com/@8ea3fe57-0b37-453e-929a-948a81792343">
@@ -75,19 +103,19 @@ I prefer learning by building real projects and solving actual problems rather t
 
 ---
 
-# 🌐 Links
+## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://nojus.42web.io">
-    <img src="https://img.shields.io/badge/Portfolio-nojus.42web.io-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
   <a href="https://github.com/Nojus1225">
-    <img src="https://img.shields.io/badge/GitHub-Nojus1225-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Nojus1225-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://nojus.42web.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Always building. Always learning.</i>
+  <i>Building. Exploring. Improving.</i>
 </p>
